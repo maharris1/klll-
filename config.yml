@@ -10,7 +10,3 @@ jobs:
       - run:
           name: App_cat
           command: echo App_cat.
-
-      - run:
-          name: Print the Current Time
-          command: date
